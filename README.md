@@ -8,5 +8,5 @@ Long SquaTz (XTZ²) allows you to take a leveraged position with limitless upsid
 - [Documentation](https://squatz.notion.site/Squa-44638f8d91c54482a62f776f1b6395ee) <br>
 - [Live Demo](https://squatzportal.tez.page/) <br>
 - [Demo Video](https://youtu.be/m4trfah-o_A) <br>
-<!-- - vUSD Token Address [KT19mcZ91i9Uq711ghZWgk2JAtrfm8s8vxU2](https://ghostnet.tzkt.io/KT19mcZ91i9Uq711ghZWgk2JAtrfm8s8vxU2/operations/) <br> -->
+- SquaTz Token Address [KT1F8Ei743RE8wH4BEdpq2uuqoHgb6jkfuJe](https://ghostnet.tzkt.io/KT1F8Ei743RE8wH4BEdpq2uuqoHgb6jkfuJe/operations/) <br>
 <!-- - VMM Contract Address [KT1CkJSoxa8Wm9fD2RSkfnpsEZch55jKB3Nj](https://ghostnet.tzkt.io/KT1CkJSoxa8Wm9fD2RSkfnpsEZch55jKB3Nj/operations/) <br> -->
